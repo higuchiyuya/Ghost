@@ -170,3 +170,5 @@ export default class SigninController extends Controller.extend(ValidationEngine
         }
     }
 }
+
+// Add a button or link in the sign-in page to redirect to /auth/google
